@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Visage Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <rect id="rectangle" fill="#4A90E2" sketch:type="MSShapeGroup" x="0" y="0" width="512" height="512"></rect>
+        <circle id="circle" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="256" cy="256" r="181"></circle>
+        <g id="face" sketch:type="MSLayerGroup" transform="translate(135.144201, 134.144201)" fill="#000000" opacity="0.15339319">
+            <path d="M121.032215,1 C54.1863161,1 0,55.1887446 0,122.032215 C0,188.878113 54.1863161,243.06443 121.032215,243.06443 C187.878113,243.06443 242.06443,188.878113 242.06443,122.032215 C242.066858,55.1887446 187.878113,1 121.032215,1 L121.032215,1 Z M121.032215,219.527757 C67.1858836,219.527757 23.5366726,175.878546 23.5366726,122.032215 L218.527757,122.032215 C218.527757,175.880974 174.880974,219.527757 121.032215,219.527757 L121.032215,219.527757 Z" id="shape" sketch:type="MSShapeGroup"></path>
+            <circle id="eye-2" sketch:type="MSShapeGroup" cx="155.766535" cy="144.784494" r="15.6878771"></circle>
+            <circle id="eye-1" sketch:type="MSShapeGroup" cx="86.3027518" cy="144.784494" r="15.6878771"></circle>
+        </g>
+    </g>
+</svg>
